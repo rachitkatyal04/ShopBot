@@ -205,4 +205,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Developer
 
-Developed by Rachit Katyal😎
+Developed by Rachit Katyal!😎
