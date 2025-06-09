@@ -6,10 +6,10 @@ A modern, AI-powered e-commerce platform with an integrated chatbot for enhanced
 ![E-commerce Chatbot Demo](https://github.com/user-attachments/assets/f69cbfb2-c584-46d7-bb5c-6b20d31f061d)
 
 ### ProductsPage:-
-(https://github.com/user-attachments/assets/294923d1-a72e-40d3-99ec-76c7460b58d4)
+![E-commerce Chatbot Demo](https://github.com/user-attachments/assets/294923d1-a72e-40d3-99ec-76c7460b58d4)
 
 ### ChatBot:-
-(https://github.com/user-attachments/assets/5c2f4e5f-564d-42fd-a90c-29991dc4e154)
+![E-commerce Chatbot Demo](https://github.com/user-attachments/assets/5c2f4e5f-564d-42fd-a90c-29991dc4e154)
 
 
 ## 🚀 Features
