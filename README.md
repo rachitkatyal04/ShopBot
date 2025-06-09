@@ -1,8 +1,16 @@
-# ShopBot: E-commerce Chatbot
+# ShopBot: E-commerce Sales Chatbot
 
 A modern, AI-powered e-commerce platform with an integrated chatbot for enhanced shopping experience. The application features a responsive UI, real-time product search, and a conversational assistant to help users find products, explore categories, and get personalized recommendations.
 
-![E-commerce Chatbot Demo](./demo-screenshot.png)
+### HomePage:-
+![E-commerce Chatbot Demo](https://github.com/user-attachments/assets/f69cbfb2-c584-46d7-bb5c-6b20d31f061d)
+
+### ProductsPage:-
+![E-commerce Chatbot Demo](https://github.com/user-attachments/assets/294923d1-a72e-40d3-99ec-76c7460b58d4)
+
+### ChatBot:-
+![E-commerce Chatbot Demo](https://github.com/user-attachments/assets/5c2f4e5f-564d-42fd-a90c-29991dc4e154)
+
 
 ## 🚀 Features
 
@@ -67,7 +75,7 @@ ecommerce-chatbot/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rachitkatyal04/e-commerce-chatbot.git
+   git clone https://github.com/rachitkatyal04/ShopBot.git
    cd e-commerce-chatbot
    ```
 
@@ -194,3 +202,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [React](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Unsplash](https://unsplash.com/) for product images
+
+## 👨‍💻 Developer
+
+Developed by Rachit Katyal😎
