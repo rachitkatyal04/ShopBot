@@ -1,4 +1,4 @@
-# ShopBot: E-commerce Chatbot
+# ShopBot: E-commerce Sales Chatbot
 
 A modern, AI-powered e-commerce platform with an integrated chatbot for enhanced shopping experience. The application features a responsive UI, real-time product search, and a conversational assistant to help users find products, explore categories, and get personalized recommendations.
 
