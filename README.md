@@ -75,7 +75,7 @@ ecommerce-chatbot/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rachitkatyal04/e-commerce-chatbot.git
+   git clone https://github.com/rachitkatyal04/ShopBot.git
    cd e-commerce-chatbot
    ```
 
